@@ -27,6 +27,6 @@
 
 -----
 
-**Ссылка проекта на GitHub Pages: https://puxichh.github.io/how-to-learn/**
+**Ссылка проекта на GitHub Pages: https://kakoytopux.github.io/how-to-learn/**
 
 На этом, в принципе, всё. Удачи в поисках знаний. (Мне тоже)
